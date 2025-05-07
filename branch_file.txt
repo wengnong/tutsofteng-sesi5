@@ -6,3 +6,4 @@ NIM : 2702222296
 di branch secondary,
 
 1. ini commit pertama
+2. ini commit kedua
