@@ -2,3 +2,6 @@ this is a file
 
 Name : Winona Patricia Pangestu
 NIM : 2702222296
+
+----------
+ini commit pertama!
